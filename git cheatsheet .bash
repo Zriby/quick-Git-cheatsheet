@@ -111,7 +111,7 @@ $ git rebase -i HEAD~3 #make sure editor is closed when you run this
 #answer:
 #$ cd
 #$ git init US_Bikeshare_Using_Python #to create local repo
-#$ git cd US_Bikeshare_Using_Python
+#$ cd US_Bikeshare_Using_Python
 #$ git add .
 #$ git commit -m 'Initial commit'
 #then create remote repo with same name on GitHub
